@@ -5,5 +5,3 @@ if ( !defined( 'FW' ) ) {
 }
 
 $cfg = array();
-
-$cfg[ 'shortcodeName' ] = 'post-share';
